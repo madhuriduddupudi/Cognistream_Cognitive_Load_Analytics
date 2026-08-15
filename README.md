@@ -133,6 +133,4 @@ The project converts raw developer activity events into meaningful analytics for
 
 **Madhuri Duddupudi**
 
-B.Tech – Artificial Intelligence & Machine Learning
-
 **Data Analytics | Python | SQL | Power BI | Data Visualization**
