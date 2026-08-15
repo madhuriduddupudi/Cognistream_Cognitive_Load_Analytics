@@ -54,9 +54,3 @@ Business Insights
 * Excel
 * Power BI
 * Real-time analytics tools
-
-## Current Status
-
-Currently, the project requirements and overall workflow have been understood and planned.
-
-The next step is to start working with the dataset and begin the actual implementation of the project.
